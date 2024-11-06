@@ -109,6 +109,8 @@ Email       : stafftu@mail.com
 Password    : secret
 ```
 
+All Credit goes to the original creator: mrizkimaulidan
+
 ### Dibuat dengan
 
 -   [Laravel](https://laravel.com) - Web Framework
